@@ -1,0 +1,6 @@
+*
+!Day-1/
+!Day-1/apps/
+!Day-1/apps/frontend/
+!Day-1/apps/frontend/**
+!.gitignore
